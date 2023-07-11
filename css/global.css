@@ -162,9 +162,10 @@ main {
 .footer {
     display: flex;
     align-items: center;
-    height: 463px;
+    height: auto;
     position: relative;
     background-color: #063255;
+    padding: 7rem 0;
 }
 
 .footer-left-img {
